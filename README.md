@@ -5,6 +5,10 @@ this script will download the latest version of miner alephium-0.4.3-cuda-miner-
 ```
 nohup ./lunch-miner.sh ip &
 ```
+if you are using the node on the same machine just run
+```
+nohup ./lunch-miner.sh &
+```
 
 to follow on the mining ...
 
