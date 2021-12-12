@@ -21,3 +21,12 @@ to follow on the script looping
 ```
 tail -f nohup.out
 ```
+
+to stop mining you just need to kill the process using kill -9 PID
+
+```
+ps aux | grep lunch-miner.sh
+```
+```
+ps aux | grep aleph
+```
